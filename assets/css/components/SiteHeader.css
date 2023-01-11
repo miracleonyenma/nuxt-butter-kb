@@ -1,0 +1,7 @@
+.site-header {
+  @apply fixed top-0 p-4 w-full;
+}
+
+.site-header > .wrapper {
+  @apply flex justify-between items-center gap-4 p-4 px-8 bg-teal-100 border border-teal-200 max-w-5xl m-auto rounded-full;
+}
